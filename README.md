@@ -26,3 +26,10 @@ and **forth**
 
 # LICENSE
 apache 2.0
+
+# launch this tool
+now is a **21/05/2026**
+
+# version
+
+beta and nano for testes
