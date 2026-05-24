@@ -26,6 +26,9 @@ inteligent or **leyernet**
 i creat this languages!
 and **forth**
 
+# created in
+**24/5/2026
+
 # LICENSE 🪪
 apache 2.0
 
