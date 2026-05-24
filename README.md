@@ -1,18 +1,18 @@
-# ShadowBox
+# ShadowBox 🧰
 this is a pentesting tool it was made for hardware scanning and is a low level tool consisting of rust, zig and C
 
-# why did I create this?
+# why did I create this? 🧰
  I created this tool for you to have several testing tools 
 this tool is a large tool that hosts smaller tools that hosts even smaller ones with virtualization
 
-# languages
+# languages 🖥️
 
 -----------------------------------------
-**rust**| for memory safe                 |
+**rust**| for memory safe                 
 ------------------------------------------
-**zig**| controler for hardware or kernel |
+**zig**| controler for hardware or kernel 
 ------------------------------------------
-**C**| for linux and freeBSD              |
+**C**| for linux and freeBSD              
 ------------------------------------------
 
 # others languages
@@ -24,7 +24,7 @@ inteligent or **leyernet**
 i creat this languages!
 and **forth**
 
-# LICENSE
+# LICENSE 🪪
 apache 2.0
 
 # launch this tool
