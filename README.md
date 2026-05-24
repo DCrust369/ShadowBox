@@ -12,7 +12,9 @@ this tool is a large tool that hosts smaller tools that hosts even smaller ones 
 ------------------------------------------
 **zig**| controler for hardware or kernel 
 ------------------------------------------
-**C**| for linux and freeBSD              
+**C**| for controler of the bare metal             
+------------------------------------------
+**Golang**| for reverse enginer
 ------------------------------------------
 
 # others languages
